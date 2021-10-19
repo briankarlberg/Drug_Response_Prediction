@@ -13,7 +13,16 @@ Cancer-type specific?
 
 
 2021-10-19  
-Next-action is to check-in drg_rsp_v2.ipynb
+Next-actions:  
+  Check-in drg_rsp_v2.ipynb.     
+  Build CCLE drug resp (querry). 
+  Check-in CCLE gene expression by cell code. 
+CCLE object appears to be from expression chunks. 
+  exp_chnks nb:  
+  
+  Build and check drug_response_CTRPv2. 
+  
+Need to do subsetting of files on exacloud
 
 2021-10-18  
 Reproduce generation of CTRPv2_16_beta_bromoandrosterone.tsv
