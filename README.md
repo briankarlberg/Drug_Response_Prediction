@@ -15,8 +15,8 @@ Cancer-type specific?
 2021-10-19  
 Next-actions:  
   Check-in drg_rsp_v2.ipynb.     
-  Build CCLE drug resp (querry). 
-  Check-in CCLE gene expression by cell code. 
+  Build CCLE drug resp (querry).   
+  Check-in CCLE gene expression by cell code.   
 CCLE object appears to be from expression chunks. 
   exp_chnks nb:  
   
