@@ -18,9 +18,10 @@ Next-actions:
   Build CCLE drug resp (querry).   
   Check-in CCLE gene expression by cell code.   
 CCLE object appears to be from expression chunks. 
-  exp_chnks nb:  
+  exp_chnks nb:_________.  
   
-  Build and check drug_response_CTRPv2. 
+  Build and check drug_response_CTRPv2.   
+  drg_rsp ctrp nb:________.  
   
 Need to do subsetting of files on exacloud
 
