@@ -2,7 +2,7 @@
 Computational drug response prediction using transcriptomic data
 
 Goal:
-Run continuous and binned response predictions.  
+Run both continuous and binned response predictions.  
 Computational, pathway informed, and random feature selection
 Benchmark conventional ML vs. Keras
 
