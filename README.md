@@ -7,7 +7,11 @@ Computational, pathway informed, and random feature selection
 Benchmark conventional ML vs. Keras
 
 Questions:
-Cancer-type specific?
+Cancer-type specific? - get tissue of origin associated with cell line from BMEG?
+
+2021-11-04
+
+Reset with coding genes and 50% RFE cut.  
 
 2021-10-20  
 
