@@ -4,24 +4,27 @@ Computational drug response prediction using transcriptomic data
 Goal:
 Run both continuous and binned response predictions.  
 Computational, pathway informed, and random feature selection
-Benchmark conventional ML vs. Keras
+Benchmark conventional grid ML vs. Keras API / Tensorflow
 
 Questions:
 Cancer-type specific? - get tissue of origin associated with cell line from BMEG?
 
 2021-11-04
 
-Reset with coding genes and 50% RFE cut.  
+Reset with coding genes and 50% RFE cut.
 
-2021-10-20  
+v3 branch started. ---> end v2 iterations <---
 
+2021-10-29.    
+
+long_jobs directory and scripts set on exacloud.  
 
 2021-10-19  
 Next-actions:  
   Check-in drg_rsp_v2.ipynb.     
-  Build and check CCLE drug resp (querry).   
+  Build and check-in CCLE drug-resp (querry).   
   Build and check-in code for CCLE gene expression by cell line.   
-CCLE object appears to be from expression chunks. 
+CCLE object from expression chunks. 
   exp_chnks nb:_________.  
   
   Build and check drug_response_CTRPv2.   
