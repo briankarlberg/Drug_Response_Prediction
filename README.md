@@ -7,7 +7,15 @@ Computational, pathway informed, and random feature selection
 Benchmark conventional grid ML vs. Keras API / Tensorflow
 
 Questions:
-Cancer-type specific? - get tissue of origin associated with cell line from BMEG?
+Cancer-type specific? - get tissue of origin associated with cell line from BMEG?.  
+
+2021-11-05
+
+Full RFE run on CTRP, 489 compounds.  
+10 features selected per compound.  
+50% cut per step.  
+v3 branch created.  
+Begin predictions on selected features.  
 
 2021-11-04
 
