@@ -1,6 +1,10 @@
 # Drug_Response_Prediction
 Computational drug response prediction using transcriptomic data
 
+2021-11-17.  
+Migrating project to drg_rsp_main repo.  
+  Three corresponding sub-repos organized by operational objective.  
+
 2021-10-29
 Reproduce drug response querry for CTRP.  
 Apply to PRISM and CCLE-NP.  
